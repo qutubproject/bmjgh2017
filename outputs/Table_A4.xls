@@ -1,0 +1,37 @@
+	SP Case				
+Diagnosis Given	Asthma	Chest Pain	Child Diarrhea	TB Suspect	Total
+	No.	No.	No.	No.	No.
+Acidity	0.0	2.0	0.0	0.0	2.0
+Allergy	3.0	0.0	0.0	0.0	3.0
+Amoeba	0.0	0.0	1.0	0.0	1.0
+Angina	0.0	1.0	0.0	0.0	1.0
+Angina He Wrote In Prescription	0.0	1.0	0.0	0.0	1.0
+Asthma	1.0	0.0	0.0	0.0	1.0
+Bacterial Infection	0.0	0.0	0.0	1.0	1.0
+Blood Infection	0.0	1.0	0.0	0.0	1.0
+Bronchiatis	0.0	0.0	0.0	1.0	1.0
+Brucellosis Or Tb	0.0	0.0	0.0	1.0	1.0
+Chest Congestion	0.0	0.0	0.0	1.0	1.0
+Chest Infection	1.0	1.0	0.0	1.0	3.0
+Chest Infection & Sp'S Imunity Is Very High That'S Why He Experiences The Pain.	0.0	1.0	0.0	0.0	1.0
+Common Cough	0.0	0.0	0.0	1.0	1.0
+Congested Chest	0.0	0.0	0.0	1.0	1.0
+High Blood Pressure	1.0	0.0	0.0	0.0	1.0
+Malaria	0.0	0.0	1.0	0.0	1.0
+NO DIAGNOSIS	26.0	22.0	36.0	29.0	113.0
+No Sickness	1.0	0.0	0.0	0.0	1.0
+Pleurities	0.0	1.0	0.0	0.0	1.0
+Pnemonia	1.0	1.0	0.0	0.0	2.0
+Pnemonia Or Tb	0.0	1.0	0.0	0.0	1.0
+Pneumonia	5.0	8.0	0.0	4.0	17.0
+Pneumonia/Chest Infection	0.0	1.0	0.0	0.0	1.0
+Pnuemonia	1.0	0.0	0.0	0.0	1.0
+Suspected Malaria And Chest Infection	0.0	0.0	0.0	1.0	1.0
+The Doctor Said Sp Has Asthma	1.0	0.0	0.0	0.0	1.0
+The Heart Is Okey It Could Be Musole Pull	0.0	1.0	0.0	0.0	1.0
+Ullers	1.0	0.0	0.0	0.0	1.0
+Upper Respiratory Infection	0.0	0.0	0.0	1.0	1.0
+Viral Infection	0.0	0.0	1.0	0.0	1.0
+Watery Diarrhoea	0.0	0.0	1.0	0.0	1.0
+Total	42.0	42.0	40.0	42.0	166.0
+
